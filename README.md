@@ -4,7 +4,7 @@ Este projeto é um clone da tela inicial do Nubank, desenvolvido em Flutter como
 
 ## 🖼️ Demonstração
 
-> <video controls src="docs/20241014-0055-30.4464103.mp4" title="Title"></video>
+> ![<video controls src="docs/20241014-0055-30.4464103.mp4" title="Title"></video>](docs/20241014-0055-30.4464103.gif)
 
 ## 🚀 Tecnologias Utilizadas
 
